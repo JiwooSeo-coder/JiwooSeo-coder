@@ -7,4 +7,4 @@ M.S. student in Chemical Engineering & Battery Science at Gachon University (C-M
 - 📄 Currently preparing a manuscript, *"Alkyl Substitution-Dependent Solvation Structure of Quaternary Ammonium Cations and Pore-Size-Optimal Capacitance in Graphite Electrodes: A Molecular Dynamics Simulation Study"*
 - 📫 Reach me at tjwldn628@gmail.com
 
-Pinned repos below show analysis code from my simulation work.
+Pinned repos below show analysis code and calculation settings from my simulation work.
